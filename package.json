@@ -1,0 +1,11 @@
+{
+  "name": "ralali-web-automation",
+  "version": "1.0.0",
+  "description": "test ralali web automation",
+  "main": "index.js",
+  "scripts": {
+    "buka": "npx cypress open"
+  },
+  "author": "Desy Atika Sari",
+  "license": "ISC"
+}
